@@ -3,9 +3,9 @@
 <div align="left">
     <img src="https://i.imgur.com/YlGrpaq.png" width="800px" height="auto"><br>
     <h3>🌱 Passionate Web Developer</h3><br>
-    <h3>⚡ Aim to become **Full-Stack Engineer**</h3><br>
-    <h3>💻 Currently exploring Frontend Frameworks:</h3><br>
-    * **ReactJS**, **AngularJS** and **VueJS**<br>
+    <h3>⚡ Aim to become Full-Stack Engineer</h3>
+    <h3>💻 Currently exploring Frontend Frameworks:</h3>
+    <p style="font-style:italic;">- ReactJS, AngularJS and VueJS</p>
     <h2>Skills:<br>
       <p>
         <a href="https://github.com/isabella-projects">
