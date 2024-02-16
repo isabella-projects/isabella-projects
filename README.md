@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isabella-projects&label=Profile%20views&color=brightgreen&style=flat&abbreviated=true" alt="isabella-projects" /> </p>
 
-<!--
-**isabella-projects/isabella-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <img src="https://i.imgur.com/YlGrpaq.png" width="800px" height="auto">
+</div>
 
-Here are some ideas to get you started:
+🌱 Passionate Web Developer<br>
+⚡ Aim to become **Full-Stack Engineer**.<br>
+💻 Currently exploring Frontend Frameworks:<br>
+> **ReactJS**, **AngularJS** and **VueJS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">Skills:<br>
+  <p>
+    <a href="https://github.com/isabella-projects">
+      <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,nodejs,react,angular,vue,php,nodejs,ts,vite,webpack,jest,mysql,wordpress,xd&perline=3"/>
+    </a>
+  </p>
+</h2>
