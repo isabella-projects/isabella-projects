@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isabella-projects&label=Profile%20views&color=brightgreen&style=flat&abbreviated=true" alt="isabella-projects" /> </p>
 
-<div align="center">
+<div align="left">
     <img src="https://i.imgur.com/YlGrpaq.png" width="800px" height="auto"><br>
     🌱 Passionate Web Developer<br>
     ⚡ Aim to become **Full-Stack Engineer**.<br>
