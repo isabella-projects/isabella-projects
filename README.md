@@ -9,7 +9,7 @@
     <h2>Skills:<br><br>
       <p>
         <a href="https://github.com/isabella-projects">
-          <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,nodejs,react,angular,vue,php,nodejs,ts,vite,webpack,jest,mysql,wordpress,xd&perline=3"/>
+          <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,nodejs,react,angular,vue,php,nodejs,ts,vite,webpack,jest,mysql,wordpress,xd&perline=6"/>
         </a>
       </p>
     </h2>
