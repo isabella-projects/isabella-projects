@@ -5,7 +5,7 @@
     <h3>🌱 Passionate Web Developer</h3>
     <h3>⚡ Aim to become Full-Stack Engineer</h3>
     <h3>💻 Currently exploring Frontend Frameworks:</h3>
-        - *ReactJS*, *AngularJS* and *VueJS*
+        - _ReactJS_, _AngularJS_ and _VueJS_
     <h2>Skills:<br><br>
       <p>
         <a href="https://github.com/isabella-projects">
