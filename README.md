@@ -2,9 +2,9 @@
 
 <div align="left">
     <img src="https://i.imgur.com/YlGrpaq.png" width="800px" height="auto"><br>
-    🌱 Passionate Web Developer<br>
-    ⚡ Aim to become **Full-Stack Engineer**.<br>
-    💻 Currently exploring Frontend Frameworks:<br>
+    <h3>🌱 Passionate Web Developer</h3><br>
+    <h3>⚡ Aim to become **Full-Stack Engineer**</h3><br>
+    <h3>💻 Currently exploring Frontend Frameworks:</h3><br>
     * **ReactJS**, **AngularJS** and **VueJS**<br>
     <h2>Skills:<br>
       <p>
