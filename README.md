@@ -6,7 +6,7 @@
 </div>
 
 ```php
-class WebDeveloper
+class Developer
 {
     public static function introduce($data) {
         $name = $data['name'];
@@ -23,12 +23,12 @@ class WebDeveloper
 
 $data = [
     'name' => 'Damyan',
-    'profession' => ["Web Developer", "UI/UX Designer"],
+    'profession' => ["Full-Stack Web Developer", "UI/UX Designer"],
     'languages' => ["PHP", "JavaScript", "SQL"],
-    'frameworks' => ["Laravel", "React.js", "Node.js"]
+    'frameworks' => ["Laravel", "ReactJS", "AngularJS"]
 ];
 
-echo WebDeveloper::introduce($data);
+echo Developer::introduce($data);
 ```
 
 <div>
