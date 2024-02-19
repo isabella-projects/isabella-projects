@@ -1,5 +1,7 @@
 <div align="left">
-    <img src="https://i.imgur.com/YlGrpaq.png" width="800px" height="auto"><br>
+    <a href="https://github.com/isabella-projects/">
+        <img src="https://i.imgur.com/YlGrpaq.png" width="800px" height="auto"><br>
+    </a>
 </div>
 <div align="left">
     <img src="https://komarev.com/ghpvc/?username=isabella-projects&label=Profile%20views&color=brightgreen&style=flat&abbreviated=true" alt="isabella-projects" />
