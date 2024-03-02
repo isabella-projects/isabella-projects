@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <h1>Hi! <span><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" height="30px"></span> I'm Damyan Minkov</h1>
+    <h1>Hi! <span><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" height="30px"></span> I'm Damyan</h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=1BD704&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Web+Developer;Programming+Enthusiast;Aspiring+Learner" alt="Typing SVG" />
 </div>
 
@@ -26,7 +26,7 @@ class Developer
 }
 
 $data = [
-    'name' => 'Damyan Minkov',
+    'name' => 'Damyan',
     'profession' => ["Full-Stack Web Developer", "Programming Enthusiast"],
     'languages' => ["JavaScript", "PHP", "SQL"],
     'frameworks' => ["ReactJS", "AngularJS", "Laravel"]
@@ -48,7 +48,7 @@ echo Developer::introduce($data);
 
 <img src="https://github.com/isabella-projects/isabella-projects/assets/76888305/db51f333-b0cc-4305-84e1-be427316eb76">
 <div align="center" dir="auto">
-    Made with ❤️ by <a href="[https://deri.my.id](https://github.com/isabella-projects)" rel="nofollow">Damyan Minkov</a>
+    Made with ❤️ by <a href="[https://deri.my.id](https://github.com/isabella-projects)" rel="nofollow">Damyan</a>
 </div>
 <img src="https://github.com/isabella-projects/isabella-projects/assets/76888305/db51f333-b0cc-4305-84e1-be427316eb76">
 
