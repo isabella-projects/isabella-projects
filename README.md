@@ -9,30 +9,35 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=1BD704&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Web+Developer;Programming+Enthusiast;Aspiring+Learner" alt="Typing SVG" />
 </div>
 
-```php
-class Developer
-{
-    public static function introduce($data) {
-        $name = $data['name'];
-        $professions = $data['profession'];
-        $languages = implode(", ", $data['languages']);
-        $frameworks = implode(", ", $data['frameworks']);
+```javascript
+import Developer from "./Developer";
 
-        $intro = sprintf("Hi, I'm %s and I'm a %s and a %s.\n", $name, $professions[0], $professions[1]);
-        $skills = sprintf("I am good at %s and enjoy working with %s.", $languages, $frameworks);
+class Minkov extends Developer { 
+  constructor() {
+    super();
+    this.age = new Date().getFullYear() - 0x7D0;
+    this.favSkills = {
+      analyticalThinking: 10,
+      teamOriented: 10,
+      determination: 10,
+      persistance: 10,
+    };
+    this.hasPassion = true;
+  }
 
-        return $intro . $skills;
-    }
+  #givesUp = null;
+  loveSunsets = true;
+
+  code(hours = Infinity) {
+    this.favSkills.analyticalThinking++;
+  }
+
+  drinkCoffee(cups = Infinity) {
+    this.favSkills.persistance++;
+  }
 }
 
-$data = [
-    'name' => 'Damyan',
-    'profession' => ["Full-Stack Web Developer", "Programming Enthusiast"],
-    'languages' => ["JavaScript", "PHP", "SQL"],
-    'frameworks' => ["ReactJS", "AngularJS", "Laravel"]
-];
-
-echo Developer::introduce($data);
+export default new Minkov();
 ```
 
 ![image](https://github.com/isabella-projects/isabella-projects/assets/76888305/db51f333-b0cc-4305-84e1-be427316eb76)
