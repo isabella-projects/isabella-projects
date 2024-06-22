@@ -46,7 +46,7 @@ export default new Minkov();
     <h1>✨ Tech Stack ✨</h1><br>
       <p>
         <a href="https://github.com/isabella-projects">
-          <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,nodejs,react,angular,vue,php,laravel,ts,jest,vite,webpack,mysql,wordpress,xd&perline=6"/>
+          <img src="https://skillicons.dev/icons?i=angular,react,ts,js,php,py,laravel,nodejs,express,linux,bootstrap,tailwind,html,css,sass,pug,wordpress,xd,mysql,postgres,sqlite,vite,webpack,jest&perline=6"/>
         </a>
       </p>
 </div>
